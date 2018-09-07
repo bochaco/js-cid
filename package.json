@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "multibase": "~0.4.0",
-    "multicodec": "~0.2.7",
+    "multicodec": "bochaco/js-multicodec#mime-types-as-codecs",
     "multihashes": "~0.4.13"
   },
   "devDependencies": {
